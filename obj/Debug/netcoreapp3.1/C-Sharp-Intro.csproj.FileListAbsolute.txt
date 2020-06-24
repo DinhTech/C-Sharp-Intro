@@ -1,0 +1,12 @@
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/bin/Debug/netcoreapp3.1/C-Sharp-Intro.deps.json
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/bin/Debug/netcoreapp3.1/C-Sharp-Intro.runtimeconfig.json
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/bin/Debug/netcoreapp3.1/C-Sharp-Intro.runtimeconfig.dev.json
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/bin/Debug/netcoreapp3.1/C-Sharp-Intro.dll
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/bin/Debug/netcoreapp3.1/C-Sharp-Intro.pdb
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.csprojAssemblyReference.cache
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.AssemblyInfoInputs.cache
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.AssemblyInfo.cs
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.csproj.CoreCompileInputs.cache
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.dll
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.pdb
+/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/Debug/netcoreapp3.1/C-Sharp-Intro.genruntimeconfig.cache
