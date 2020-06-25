@@ -18,12 +18,13 @@ namespace C_Sharp_Intro
                 2) [ Termination ] Condition.
                 3) Iteration.
            */
-           //@link https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/foreach-in
+           
            for ( int i = 0; i < 6; i += 2 )
            {
                Console.WriteLine( "Current (for) number is: {0}", i );
            }
-
+            // If we need to iterate through a list, use foreach!
+            //@link https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/foreach-in
            string[] myList = { "cat", "turtle", "lizard", "frog", "dog" };
            foreach ( string listItem in myList )
            {
