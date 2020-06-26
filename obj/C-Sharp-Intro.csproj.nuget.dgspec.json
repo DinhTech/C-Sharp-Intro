@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/C-Sharp-Intro.csproj": {}
+    "C:\\Users\\Dinh Thai\\Documents\\Code\\Projects\\C-Sharp-Intro\\C-Sharp-Intro.csproj": {}
   },
   "projects": {
-    "/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/C-Sharp-Intro.csproj": {
+    "C:\\Users\\Dinh Thai\\Documents\\Code\\Projects\\C-Sharp-Intro\\C-Sharp-Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/C-Sharp-Intro.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Thai\\Documents\\Code\\Projects\\C-Sharp-Intro\\C-Sharp-Intro.csproj",
         "projectName": "C-Sharp-Intro",
-        "projectPath": "/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/C-Sharp-Intro.csproj",
-        "packagesPath": "/Users/dinhthai/.nuget/packages/",
-        "outputPath": "/Users/dinhthai/Documents/Code/Projects/C-Sharp-Intro/obj/",
+        "projectPath": "C:\\Users\\Dinh Thai\\Documents\\Code\\Projects\\C-Sharp-Intro\\C-Sharp-Intro.csproj",
+        "packagesPath": "C:\\Users\\Dinh Thai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Thai\\Documents\\Code\\Projects\\C-Sharp-Intro\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dinhthai/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Dinh Thai\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,30 +6,26 @@ namespace C_Sharp_Intro
     {
         static void Main(string[] args)
         {
-           int myNum = 3;
-           while ( myNum > 0 ) // Iterates/loops while the CONDITION is TRUE.
-           {
-               Console.WriteLine( "Current number is: {0}", myNum );
-               myNum--;
-           }
-           /*
-                For loops have 3 semi-colon-separated components;
-                1) Assignment.
-                2) [ Termination ] Condition.
-                3) Iteration.
-           */
-           
-           for ( int i = 0; i < 6; i += 2 )
-           {
-               Console.WriteLine( "Current (for) number is: {0}", i );
-           }
-            // If we need to iterate through a list, use foreach!
-            //@link https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/foreach-in
-           string[] myList = { "cat", "turtle", "lizard", "frog", "dog" };
-           foreach ( string listItem in myList )
-           {
-               Console.WriteLine( "The current item is: {0}", listItem );
-           }
+            // 2 dimensional array!
+            string[,] topics = {{"cat","dog","frog","hedgehog"},
+                                {"zebra","giraffe","lion","elephant"},
+                                {"zebra","giraffe","lion","elephant"},
+                                {"ant","beetle","waterbug","mosquito"}};
+            // Loop through the rows...
+            for( int row = 0; row < topics.GetLength(0); row++ ) // row = row + 1;
+            {
+                // Output current row...
+                Console.WriteLine( "Starting row #{0}", row );
+                // Loop through column in the current row...
+                for ( int column = 0; column < topics.GetLength(1); column++ )
+                {
+                    // Output the current column...
+                    Console.WriteLine( "Starting column #{0}", column );
+                    // Output the current animal!
+                    Console.WriteLine( "This animal is: {0}", topics[row,column] );
+                }
+                
+            }                
         }
     }
 }
